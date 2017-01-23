@@ -1,0 +1,6 @@
+C:\Users\defaultuser0\Documents\Visual Studio 2015\Projects\amrproject\amrproject\bin\Debug\ID3Entropy.exe.config
+C:\Users\defaultuser0\Documents\Visual Studio 2015\Projects\amrproject\amrproject\bin\Debug\ID3Entropy.exe
+C:\Users\defaultuser0\Documents\Visual Studio 2015\Projects\amrproject\amrproject\bin\Debug\ID3Entropy.pdb
+C:\Users\defaultuser0\Documents\Visual Studio 2015\Projects\amrproject\amrproject\obj\Debug\ID3 Entropy.csprojResolveAssemblyReference.cache
+C:\Users\defaultuser0\Documents\Visual Studio 2015\Projects\amrproject\amrproject\obj\Debug\ID3Entropy.exe
+C:\Users\defaultuser0\Documents\Visual Studio 2015\Projects\amrproject\amrproject\obj\Debug\ID3Entropy.pdb
